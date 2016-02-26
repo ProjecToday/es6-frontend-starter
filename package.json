@@ -20,8 +20,5 @@
     "babel-preset-stage-0": "^6.3.13",
     "css-loader": "^0.23.1",
     "style-loader": "^0.13.0"
-  },
-  "dependencies": {
-    "milligram": "^1.0.3"
   }
 }

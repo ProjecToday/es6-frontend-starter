@@ -1,3 +1,5 @@
+> minimum starter
+
 ## Features
 
 - [x] [babel]()
@@ -6,7 +8,8 @@
 ## Usage
 
 1. clone this project
-2. use it
+2. install dependencies: `npm install`
+3. using it
 
   - start: `npm start`
   - build: `npm run build`
