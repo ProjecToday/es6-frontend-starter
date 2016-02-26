@@ -4,7 +4,7 @@
   "description": "simple cms using github as backend",
   "main": "index.js",
   "scripts": {
-    "start": "webpack -d --watch & open ./index.html",
+    "start": "webpack-dev-server --progress --colors",
     "build": "webpack -d -p"
   },
   "keywords": [
