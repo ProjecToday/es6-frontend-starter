@@ -11,5 +11,5 @@
 2. install dependencies: `npm install`
 3. using it
 
-  - start: `npm start`
+  - start: `npm start` - then go to `localhost:8080`
   - build: `npm run build`
